@@ -1,0 +1,12 @@
+Cheese Pizza	Y 
+Hamburger	Y 
+Fish Sticks	Y 
+Mystery Meat	N 
+Cheese Pizza	Y 
+Hamburger	N 
+Fish Sticks	N 
+Mystery Meat	N 
+Cheese Pizza	Y 
+Hamburger	N 
+Fish Sticks	Y 
+Mystery Meat	N 
